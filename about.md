@@ -5,10 +5,11 @@
 The Meta-Brain project aims to collect information about other projects that
 provide web-based solutions for problems faced by people who are emigrating to
 Germany (Europe) and the volunteers who are helping them get settled. This
-document describes in more detail [why][] we think this is important, [what][] our
-goals are , [who][] we are, and the [status][] of the project.
+document describes in more detail [why](#why) we think this is important,
+[what](#what) our
+goals are , [who](#who) we are, and the [status](#status) of the project.
 
-## Why do you do this? [why]
+## <a name="why"></a>Why do you do this?
 
 Many people, on separate occasions (links to resources), have come to the
 conclusion that there is a massive duplication of effort when it comes to
@@ -18,21 +19,21 @@ collected such projects (and we are grateful for that) a manageable overview
 
 - categories
 
-## What's the big idea? [what]
+## <a name="what"></a>What's the big idea?
 
 - database
 - data management
 - api
 - user stories/frontend
 
-## Who is behind this? [who]
+## <a name="who"></a>Who is behind this?
 
 - hackathon
 - OK lab
 - TU Berlin
 - Hamburg
 
-## Is this ready to use? [status]
+## <a name="status"></a>Is this ready to use?
 
 - development
 
